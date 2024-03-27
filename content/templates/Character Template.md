@@ -1,11 +1,10 @@
 ---
 title: <% tp.file.title %>
-Player_Character: "false"
+playerCharacter: "false"
 draft: "true"
 tags:
   - NPC
 ---
-
 
 Role::
 Location::
