@@ -1,3 +1,8 @@
+>[!iimportant]- Resource Links
+>[Campaign Wiki](https://ahnuil.github.io/quartz-fetch/ "https://ahnuil.github.io/quartz-fetch/")
+>[Pathfinder 2e Rules Wiki](https://2e.aonprd.com/ "https://2e.aonprd.com/")
+
+---
 # Expectations
 
 ## Doors and Curtains
@@ -24,8 +29,9 @@ Metagaming is the practice of using knowledge gained out of character when actin
 
 ## Attention
 
-TTRPGs can be slow sometimes. I do my best to mitigate it, but it’s just the nature of the beast. I encourage you to take notes to keep you engaged in what is going on. If all players agree to it, I will also record the sessions and put the recordings in a folder which everyone can access. To prevent combat being dragged out, we will be implementing a time limit for each player’s turn. This will likely be in the neighborhood of two minutes per turn.
+TTRPGs can be slow sometimes. I do my best to mitigate it, but it’s just the nature of the beast. I encourage you to take notes to keep you engaged in what is going on. If all players agree to it, I will also record the sessions and put the recordings in a folder which everyone can access. To prevent combat being dragged out, we may be implementing a time limit for each player’s turn. This will likely be in the neighborhood of two minutes per turn.
 
+---
 # What’s already decided?
 
 ## What level are we starting at?
@@ -34,56 +40,68 @@ Characters will start at level 1 for this campaign.
 
 ## Where will the campaign be run?
 
-This campaign will be hosted remotely using the Foundry Virtual Tabletop software running on a Forge-VTT server. Players will be sent a link and need to log in/create an account. Your password is for **Forge, *not* Foundry***. You will be able to use this account to log in to any Forge-VTT game you are invited to. If you would like to change your password, it has to be done through your account page on Forge-VTT's website. The server will be active for at least an hour after session and at the doors time. If you need server access outside of these timeframes, contact the DM to boot the server for you.
+This campaign will be hosted remotely using the Foundry Virtual Tabletop software running on a Forge-VTT server. Players will be sent a link and need to log in/create an account. Your password is for **Forge (the website), *not* Foundry (the program)**. You will be able to use this account to log in to any Forge-VTT hosted game you are invited to. If you would like to change your password, it has to be done through your account page on Forge-VTT's website. The server will be active from doors time to about an hour after the session ends. If you need server access outside of these timeframes, contact the DM to boot the server for you. (It's just a thing I have to click)
 
 ## How long will a session be?
 
 Sessions will generally run between 2 and 4 hours long, with an approximately 3 hour average. This may shift depending on the decisions we make about the story, but the game will never be longer than 4 hours.
 
 ## How will leveling work?
-We will be using a milestone leveling system.  
 
+We will be using a milestone leveling system.  Levels will be awarded based on story progression, rather than on how many monsters you've killed, traps you've disabled, peasants you've manipulated, etc. I do use per-encounter XP as a rough guideline for milestone pacing, so if you are accustomed to XP leveling the curve should not be wildly different until later levels if at all.
+
+---
 # Safety Tools
 
 In the interest of making sure that everyone has fun and no boundaries get violated, we will be using the following safety tools.
 
 ## Lines and Veils
 
-Each player should send me a list of their lines and veils, if they have them. I will compile these all into a list - without attribution - so that players can have their lines and veils respected without necessarily having to reveal that it is their line or veil. A line is a topic which under no circumstances should be present or alluded to during the story. A veil is a topic which may be referenced or alluded to but never happens ‘on-screen’. Both lists will be available both here and as a document on the VTT during gameplay for your reference. The original intention was to avoid topics that would be triggering for players, but I also believe these should be used even for subjects that just make you uncomfortable, as I feel that diminishes the fun of the game.  If a line or veil is crossed in another player’s backstory and it looks like it may become relevant to the plot, I will approach the player whose line or veil that is to see if and/or how we can work it in without it being distressing to anyone. Please note, I will only list a subject once even if multiple players list it as a line or veil. If a subject is veiled for one player but a line for another, it will only be present on the line list.  
+Each player should send me a list of their lines and veils, if they have them. I will compile these all into a list - without attribution - so that players can have their lines and veils respected without necessarily having to reveal that it is their line or veil. 
 
-### Lines
+- A line is a topic which under no circumstances should be present or alluded to during the story. 
 
-Excessive, detailed gore
+- A veil is a topic which may be referenced or alluded to but never happens ‘on-screen’. 
 
-### Veils  
+Both lists will be available both here and as a document on the VTT during gameplay for your reference. The original intention was to avoid topics that would be triggering for players, but I also believe these should be used even for subjects that just make you uncomfortable, as I feel that diminishes the fun of the game.  If a line or veil is crossed in another player’s backstory and it looks like it may become relevant to the plot, I will approach the player whose line or veil that is to see if and/or how we can work it in without it being distressing to anyone. 
+
+>[!warning]
+>Please note, I will only list a subject once even if multiple players list it as a line or veil. If a subject is veiled for one player but a line for another, it will only be present on the line list.  
+
+![[Lines]]
+![[Veils]]
 
 ## X Cards
 
 An X card overturns the usual “Yes, and” rule. If a player uses an X card, that subject is dropped immediately and without question. I am working on implementing a method by which players may X card anonymously, until then you may X card by messaging me directly through Discord or with the whisper feature in Foundry if you are not comfortable directly stopping play.
 
-  
-
+---
 # Table Questions
 
 ## What should be done if one or more players are absent? Under what conditions do we cancel outright?
 
+
 ## Are there any scenes or settings that we want to specifically see in this game?
+
 
 ## Is PvP allowed? Under what circumstances?
 
+
 ## What is the ‘rating’ for our game? (PG, PG-13, R, etc.)
+
 
 ## How should character death/resurrection be handled?
 
+---
 # House Rules
+- [ ] Free Archetype
+- [ ] Gradual Ability Boost
 
-## What kind of rules do we want to implement for crits and fumbles (Skill crits/fumbles, failing forward, crit/fumble tables, etc)?
+![[Crits and Fumbles]]
 
-## Inspiration
-
-Generally I like to give players ‘inspiration’ (called Hero Points in Pathfinder 2e) for the following:
-
-1. Exceptional Roleplay
-2. Clever Solutions
-3. Big Character Moments
-
+> [!fetch] Inspiration
+> Generally I like to give players ‘inspiration’ (called Hero Points in Pathfinder 2e) for the following:
+> 
+> 1. Exceptional Roleplay
+> 2. Clever Solutions
+> 3. Big Character Moments

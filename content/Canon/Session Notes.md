@@ -1,1 +1,5 @@
-[[Session 0]]
+
+| Session       | Summary                |
+| ------------- | ---------------------- |
+| [[Session 0]] | Set table expectations |
+

@@ -1,0 +1,1 @@
+- Excessive, detailed gore
