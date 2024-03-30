@@ -94,12 +94,19 @@ An X card overturns the usual “Yes, and” rule. If a player uses an X card, t
 
 ---
 # House Rules
+
+## Alternate Core Rules
 - [ ] Free Archetype
 - [ ] Gradual Ability Boost
 
-![[Crits and Fumbles]]
+## What kind of rules do we want to implement for crits and fumbles?
+- [ ] Crit Deck (Players)
+- [ ] Fumble Deck (Players)
+- [ ] Crit Deck (Enemies)
+- [ ] Fumble Deck (Enemies)
+- [ ] Fail Forward
 
-> [!fetch] Inspiration
+> [!info] Inspiration
 > Generally I like to give players ‘inspiration’ (called Hero Points in Pathfinder 2e) for the following:
 > 
 > 1. Exceptional Roleplay
