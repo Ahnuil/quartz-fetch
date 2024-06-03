@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Mattias Earthshaker
 playerCharacter: false
 draft: true
 tags:
@@ -7,8 +7,11 @@ tags:
 ---
 
 #### Role
+Former Emperawr and Chompion
 
-#### Location
+#### Location 
+Deceased
+
 
 # Description
 
@@ -39,7 +42,8 @@ Traits::
 
 
 # Relationships
-
+[[Emperawr Barktholomew the Boofer]] - His son and successor
+[[Godhowler Louix Garou]] - A close personal friend, and in later years a peer
 
 # Offerings
 

@@ -1,7 +1,6 @@
 ---
-title: The Fetchtival
+title: <% tp.file.title %>
 draft: true
 tags:
-  - Event
   - Lore
 ---

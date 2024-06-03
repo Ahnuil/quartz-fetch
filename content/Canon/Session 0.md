@@ -82,29 +82,35 @@ An X card overturns the usual “Yes, and” rule. If a player uses an X card, t
 
 
 ## Are there any scenes or settings that we want to specifically see in this game?
-
+Monsters based off of dog fears
+Cat (west side) Gangsters 
+Dog Themed Goofs
 
 ## Is PvP allowed? Under what circumstances?
-
+Yes
 
 ## What is the ‘rating’ for our game? (PG, PG-13, R, etc.)
-
+R
 
 ## How should character death/resurrection be handled?
+Per Character basis
 
 ---
 # House Rules
 
 ## Alternate Core Rules
-- [ ] Free Archetype
-- [ ] Gradual Ability Boost
+- [x] Free Archetype
+- [x] Gradual Ability Boost
+- [x] Hero Point Deck
+
 
 ## What kind of rules do we want to implement for crits and fumbles?
-- [ ] Crit Deck (Players)
-- [ ] Fumble Deck (Players)
-- [ ] Crit Deck (Enemies)
-- [ ] Fumble Deck (Enemies)
-- [ ] Fail Forward
+- [x] Crit Deck (Players)
+- [x] Fumble Deck (Players)
+- [x] Crit Deck (Enemies)
+- [x] Fumble Deck (Enemies)
+- [x] Fail Forward
+
 
 > [!info] Inspiration
 > Generally I like to give players ‘inspiration’ (called Hero Points in Pathfinder 2e) for the following:
